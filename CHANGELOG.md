@@ -1,5 +1,7 @@
 # Changelog
 
+## v1.0.0
+
 ## v0.2.3
 
 [compare changes](https://github.com/reslear/metakeep-wagmi-connector/compare/v0.2.2...v0.2.3)
