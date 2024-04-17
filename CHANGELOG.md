@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.1
+
+[compare changes](https://github.com/github_author/packagename/compare/v1.0.0...v1.0.1)
+
+### 📖 Documentation
+
+- Fix header ([28948af](https://github.com/github_author/packagename/commit/28948af))
+
+### ❤️ Contributors
+
+- Reslear <reslear@gmail.com>
+
 ## v1.0.0
 
 ## v0.2.3
