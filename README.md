@@ -42,7 +42,7 @@ import { } from 'packagename';
 ## Uses source links
 - 
 
-# Related
+## Related
 - 
 
 ## License
