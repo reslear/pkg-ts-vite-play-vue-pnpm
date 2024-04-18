@@ -11,8 +11,11 @@
 > 
 > 1. and remove this line
 
-[![Version](https://img.shields.io/npm/v/packagename)](https://www.npmjs.com/packagename/packagename)
-[![Downloads](https://img.shields.io/npm/dt/packagename)](https://www.npmjs.com/packagename/packagename)
+[![Version](https://img.shields.io/npm/v/packagename)](https://www.npmjs.com/packagename)
+[![Downloads](https://img.shields.io/npm/dt/packagename)](https://www.npmjs.com/packagename)
+[![install size](https://packagephobia.com/badge?p=packagename)](https://packagephobia.com/result?p=packagename)
+[![bundle size](https://badgen.net/bundlephobia/minzip/packagename)](https://bundlephobia.com/result?p=packagename)
+
 [publint](https://publint.dev/packagename) | 
 [arethetypeswrong](https://arethetypeswrong.github.io/?p=packagename)
 
