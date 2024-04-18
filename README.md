@@ -1,7 +1,7 @@
 # packagename 
 
 
-> 1. find `packagename` and replace with your packagename name
+> 1. find `packagename` and replace with your packagename name (in vscode in all files)
 > 
 > 1. also find `username` and replace with your name
 > 
