@@ -5,7 +5,8 @@
 > also find `username` and replace with your name
 >  and remove this line
 > first commit create as tag
-> 
+> for release npm set `NPM_TOKEN` on github secrets.
+
 [![Version](https://img.shields.io/npm/v/packagename)](https://www.npmjs.com/packagename/packagename)
 [![Downloads](https://img.shields.io/npm/dt/packagename)](https://www.npmjs.com/packagename/packagename)
 [publint](https://publint.dev/packagename) | 
