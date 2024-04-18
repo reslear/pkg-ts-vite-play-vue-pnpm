@@ -1,4 +1,4 @@
-# template 
+# packagename 
 
 
 > 1. find `packagename` and replace with your packagename name
